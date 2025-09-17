@@ -7,3 +7,5 @@ Color Board — це інтерактивна дошка з квадратика
 - JavaScript
 
 
+Проект доступний через GitHub Pages: https://colibriss.github.io/color-board/
+
